@@ -16,7 +16,7 @@
     </div>
     <div class="legal">
       <p>Developed by Capra</p>
-      <p>©2022 Seifi4U, all rights reserved.</p>
+      <p>©2022 Seifi4U, all rights reserved!</p>
       <p>Privacy Policy</p>
     </div>
   </footer>
